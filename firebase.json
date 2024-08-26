@@ -1,0 +1,14 @@
+{
+  "react-native": {
+    "analytics_auto_collection_enabled": false,
+    "perf_auto_collection_enabled": true,
+    "admob_android_app_id": "ca-app-pub-6637003012513941~3830779976",
+    "admob_ios_app_id": "ca-app-pub-6637003012513941~3830779976",
+    "crashlytics_ndk_enabled": true,
+    "crashlytics_debug_enabled": true,
+    "crashlytics_disable_auto_disabler": true,
+    "crashlytics_auto_collection_enabled": true,
+    "crashlytics_is_error_generation_on_js_crash_enabled": true,
+    "crashlytics_javascript_exception_handler_chaining_enabled": true
+  }
+}

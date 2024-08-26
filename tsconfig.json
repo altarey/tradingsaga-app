@@ -1,0 +1,40 @@
+{
+  "compilerOptions": {
+    "rootDir": ".",
+    "moduleResolution": "node",
+    "target": "ES2017",
+    "lib": ["ES7"],
+    "noUnusedParameters": true,
+    "strictNullChecks": true,
+    "skipLibCheck": true,
+    "jsx": "react",
+    "allowJs": false,
+    "sourceMap": true,
+    "skipDefaultLibCheck": true,
+    "experimentalDecorators": true,
+    "downlevelIteration": true,
+    "noImplicitReturns": false,
+    "resolveJsonModule": true,
+    "forceConsistentCasingInFileNames": true,
+    "noImplicitThis": false,
+    "noImplicitAny": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "baseUrl": ".",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "strict": true,
+    "module": "esnext",
+    "isolatedModules": true,
+    "noEmit": true
+  },
+  "include": ["app/**/*"],
+  "exclude": ["app/tickers/tickers-submodule"],
+  "typeAcquisition": {
+    "enable": true
+  },
+  "typeRoots": [
+    "../node_modules/@types",
+    "../@types",
+      "../types.d.ts"
+  ]
+}

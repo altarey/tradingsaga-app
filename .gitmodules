@@ -1,0 +1,3 @@
+[submodule "app/tickers/tickers-submodule"]
+	path = app/tickers/tickers-submodule
+	url = git@gitlab.com:fantasy-mesa/trading-saga/tickers.git

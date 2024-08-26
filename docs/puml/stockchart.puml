@@ -1,0 +1,34 @@
+@startuml
+scale 1000 width
+
+state StepLine {
+  state Board {
+     this_stepLine -> d3_line
+     d3_line -> initGraph
+     initGraph -> tick
+     tick -> chartPath
+     note right
+       this.chartPath = this.stepLine(this.data)
+       happens every tick
+       ====
+       * refactor?
+     end note
+  }
+
+  state StockChart {
+     chartPath -> d
+     note left
+       <Path
+       /*d={stepLine}*/
+       d={"M0 0 L500 300"}
+       /*clipPath="url(#r-clip-path)"*/
+       stroke={colors.GRID}
+       fill={'none'}
+       strokeWidth={STEP_WIDTH}
+       />
+     end note
+  }
+
+  Board --> StockChart : chartPath
+}
+@enduml

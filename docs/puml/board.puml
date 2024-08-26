@@ -1,0 +1,55 @@
+@startuml
+skinparam sequenceArrowThickness 2
+skinparam roundcorner 20
+skinparam maxmessagesize 60
+skinparam sequenceParticipant underline
+skinparam BoxPadding 150
+skinparam ParticipantPadding 50
+
+actor User
+
+box "Board" #LightBlue
+  participant "ctor" as C
+  participant "initScaleFunction" as SF
+  participant "componentDidMount" as CDM
+  participant "handleStartSession" as HSS
+  participant "initGraph" as IG
+  participant "tick" as T
+end box
+
+box "StockChart" #LightGreen
+  participant "StockChart" as SC
+end box
+
+User -> C: PlayGame
+
+C -> SF
+rnote over SF
+  ""this.stepLine = d3.line()""
+  ""this.stepArea = d3.area()""
+end note
+
+SF -> CDM: mount
+
+CDM -> HSS
+rnote over HSS #FFAAAA
+  ""{values} = await Board.getTickerStock()""
+  ""this.data = values""
+end note
+
+HSS -> IG
+rnote over IG
+  ""this.stepLine <-""
+  ""this.stepArea <-""
+end note
+
+IG -> T: start
+
+T -> T: Timer
+note right of T #aqua
+  ""this.chartPath = this.stepLine(this.data)""
+  ""this.chartUnderPath = this.stepArea(this.data)""
+end note
+
+T -> SC: setState
+@enduml

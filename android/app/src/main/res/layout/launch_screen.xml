@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:background="#172122"
+  android:gravity="center|center_horizontal"
+  android:orientation="vertical">
+
+  <ImageView
+    android:layout_width="200dp"
+    android:layout_height="200dp"
+    android:layout_marginTop="24dp"
+    android:src="@mipmap/icon" />
+
+  <ImageView
+    android:id="@+id/poweredByTickerTick"
+    android:layout_width="178dp"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="50dp"
+    android:adjustViewBounds="true"
+    android:scaleType="centerCrop"
+    android:src="@drawable/powered_by_ticker_tick" />
+</LinearLayout>
