@@ -3,6 +3,7 @@
 ![Trading Saga Logo](https://tradingsaga.com/logo.png)
 
 **Trading Saga** is a cross-platform React Native app, inspired by the [Bloomberg Trading Game](https://www.bloomberg.com/features/2015-stock-chart-trading-game/).
+
 More details are available at [tradingsaga.com](https://tradingsaga.com).
 
 ## 🚀 Project Overview
