@@ -3,14 +3,11 @@
 ![Trading Saga Logo](https://tradingsaga.com/logo.png)
 
 **Trading Saga** is a cross-platform React Native app, inspired by the [Bloomberg Trading Game](https://www.bloomberg.com/features/2015-stock-chart-trading-game/).
-
-More details available at [tradingsaga.com](https://tradingsaga.com).
+More details are available at [tradingsaga.com](https://tradingsaga.com).
 
 ## 🚀 Project Overview
-
-Architected and Designed by [Philipp Munin](https://www.linkedin.com/in/pmunin) ![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)
-  
-Development Delivery by [Karapish](https://www.linkedin.com/in/karapish) ![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)
+Architected and Designed by [Philipp Munin](https://www.linkedin.com/in/pmunin) 
+Development Delivery by [Karapish](https://www.linkedin.com/in/karapish)
 
 ## 🛠️ Setup Local Dev Environment
 
