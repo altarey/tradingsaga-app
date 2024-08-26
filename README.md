@@ -1,21 +1,31 @@
-# Trading Saga mobile app
-It's a cross-platform react-native app
+# Trading Saga Mobile App
 
+![Trading Saga Logo](https://tradingsaga.com/logo.png)
 
-## Setup local dev environment
-On Mac
+**Trading Saga** is a cross-platform React Native app, inspired by the [Bloomberg Trading Game](https://www.bloomberg.com/features/2015-stock-chart-trading-game/).
+
+More details available at [tradingsaga.com](https://tradingsaga.com).
+
+## 🚀 Project Overview
+
+Architected and Designed by [Philipp Munin](https://www.linkedin.com/in/pmunin) ![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)
+  
+Development Delivery by [Karapish](https://www.linkedin.com/in/karapish) ![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)
+
+## 🛠️ Setup Local Dev Environment
+
+**On Mac:**
   - [Build for iOS](docs/LOCAL-SETUP-MAC-XCODE.md)
   - [Build for Android](docs/LOCAL-SETUP-MAC-ANDROID.md)
 
-On Windows
+**On Windows:**
   - [Build for Android](docs/LOCAL-SETUP-WIN-ANDROID.md)
 
-## Engineering practices
-- [Merge request (MR) rules](docs/MERGE-REQUEST.md)
+## 🧑‍💻 Engineering Practices
+- [Merge Request (MR) Rules](docs/MERGE-REQUEST.md)
 
-## App design and architecture
-- [App architecture](docs/APP-ARCHITECTURE.md)
+## 📐 App Design and Architecture
+- [App Architecture](docs/APP-ARCHITECTURE.md)
 
-## App Stores
+## 🛒 App Stores
 - [Publish to Stores](docs/PUBLISH-STORE.md)
-
