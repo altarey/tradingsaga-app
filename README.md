@@ -7,6 +7,7 @@ More details are available at [tradingsaga.com](https://tradingsaga.com).
 
 ## 🚀 Project Overview
 Architected and Designed by [Philipp Munin](https://www.linkedin.com/in/pmunin) 
+
 Development Delivery by [Karapish](https://www.linkedin.com/in/karapish)
 
 ## 🛠️ Setup Local Dev Environment
