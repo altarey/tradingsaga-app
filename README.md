@@ -2,6 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/bf206a63-da9d-49f3-bf7d-e3d7b348a527)
 
+More details are available at [tradingsaga.com](https://tradingsaga.com).
+
 Welcome to **TradingSaga**, your mobile platform for real-time trading insights and market analysis in a non-demanding gamified environment. Our mission is to empower traders by providing cutting-edge tools, resources, and information to make informed trading decisions. The plot was inspired by the [Bloomberg Trading Game](https://www.bloomberg.com/features/2015-stock-chart-trading-game/).
 
 ## History
@@ -21,9 +23,10 @@ TradingSaga is designed to cater to traders of all levels, from beginners to exp
 
 ## Key Features
 
-![Feature Image 1](link_to_image1)
-![Feature Image 2](link_to_image2)
-![Feature Image 3](link_to_image3)
+![In-app gameplay](https://github.com/user-attachments/assets/3981bc07-92f7-4cca-acff-9eee9ac6b8cc)
+![image](https://github.com/user-attachments/assets/79bb396a-d373-4b4d-965c-9d06442ddcc7)
+![image](https://github.com/user-attachments/assets/87133e6a-71fb-4d79-acab-40de82062512)
+![image](https://github.com/user-attachments/assets/c76e69ac-4712-4862-aaf0-4050b2f063e5)
 
 - **Live Trading Simulator**: Practice your trading strategies in a risk-free environment.
 - **Market News**: Stay updated with the latest news and analysis from the financial world.
@@ -35,23 +38,13 @@ TradingSaga is designed to cater to traders of all levels, from beginners to exp
 2. **Explore the Features**: Take a tour of the platform to discover all the tools and resources available.
 3. **Start Trading**: Begin your trading journey with confidence using TradingSaga's state-of-the-art tools.
 
-## Screenshots
-
-Here are some screenshots from the TradingSaga platform:
-
-![Screenshot 1](link_to_screenshot1)
-![Screenshot 2](link_to_screenshot2)
-![Screenshot 3](link_to_screenshot3)
 
 ## Contributing
 
 We welcome contributions from the community! If you're interested in contributing to TradingSaga, please follow these steps:
 
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a Pull Request.
+1. Send email to fantasymesa@gmail.com to let know you're using this repositroy in commercial and for non-commercial use
+2. MIT license comes wiht that condition
 
 ## License
 
@@ -59,22 +52,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Connect with Us:**
-
-- [Twitter](https://twitter.com/tradingsaga)
-- [Facebook](https://facebook.com/tradingsaga)
-- [LinkedIn](https://linkedin.com/company/tradingsaga)
-
----
-
 Happy Trading! 🚀
-
-
-
-
-More details are available at [tradingsaga.com](https://tradingsaga.com).
-
-## 🚀 Project Overview
 
 
 ## 🛠️ Setup Local Dev Environment
