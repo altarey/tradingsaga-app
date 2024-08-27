@@ -1,22 +1,23 @@
-# Trading Saga Mobile App
-
-![Trading Saga Logo](https://tradingsaga.com/logo.png)
-
-# TradingSaga
+# TradingSaga Cross-platform Mobile App
 
 ![TradingSaga Logo](link_to_logo_image)
 
-Welcome to **TradingSaga**, your go-to platform for real-time trading insights and market analysis. Our mission is to empower traders by providing cutting-edge tools, resources, and information to make informed trading decisions.
+Welcome to **TradingSaga**, your mobile platform for real-time trading insights and market analysis in a non-demanding gamified environment. Our mission is to empower traders by providing cutting-edge tools, resources, and information to make informed trading decisions. The plot was inspired by the [Bloomberg Trading Game](https://www.bloomberg.com/features/2015-stock-chart-trading-game/).
 
-## About the Project
+## History
+
+The app has been worked on by two development and UI/UX freelancing teams: 
+- 2020 in India (v1)
+- 2021 in Ukraine, UK and Pakistan (v2)
+Front-end React Architecture done by [Philipp Munin](https://www.linkedin.com/in/pmunin) 
+Project and Development Delivery managed by [Gleb Karapish](https://www.linkedin.com/in/karapish)
+
+## Concepts
 
 TradingSaga is designed to cater to traders of all levels, from beginners to experienced professionals. The platform offers a comprehensive suite of features, including:
 
 - **Real-Time Market Data**: Access live data on stocks, forex, commodities, and more.
 - **Advanced Charting Tools**: Utilize powerful charting tools to analyze market trends.
-- **Educational Resources**: Learn from a wealth of educational materials to sharpen your trading skills.
-- **Community Forums**: Engage with a vibrant community of traders, share insights, and discuss strategies.
-- **Personalized Alerts**: Set up custom alerts to stay on top of market movements.
 
 ## Key Features
 
@@ -25,7 +26,6 @@ TradingSaga is designed to cater to traders of all levels, from beginners to exp
 ![Feature Image 3](link_to_image3)
 
 - **Live Trading Simulator**: Practice your trading strategies in a risk-free environment.
-- **Portfolio Management**: Track your investments and manage your portfolio with ease.
 - **Market News**: Stay updated with the latest news and analysis from the financial world.
 - **Customizable Interface**: Tailor the platform to suit your trading style and preferences.
 
@@ -70,14 +70,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Happy Trading! 🚀
 
 
-**Trading Saga** is a cross-platform React Native app, inspired by the [Bloomberg Trading Game](https://www.bloomberg.com/features/2015-stock-chart-trading-game/).
+
 
 More details are available at [tradingsaga.com](https://tradingsaga.com).
 
 ## 🚀 Project Overview
-Architected and Designed by [Philipp Munin](https://www.linkedin.com/in/pmunin) 
 
-Development Delivery by [Karapish](https://www.linkedin.com/in/karapish)
 
 ## 🛠️ Setup Local Dev Environment
 
