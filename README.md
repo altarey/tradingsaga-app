@@ -1,6 +1,6 @@
 # TradingSaga Cross-platform Mobile App
 
-![TradingSaga Logo](link_to_logo_image)
+![image](https://github.com/user-attachments/assets/bf206a63-da9d-49f3-bf7d-e3d7b348a527)
 
 Welcome to **TradingSaga**, your mobile platform for real-time trading insights and market analysis in a non-demanding gamified environment. Our mission is to empower traders by providing cutting-edge tools, resources, and information to make informed trading decisions. The plot was inspired by the [Bloomberg Trading Game](https://www.bloomberg.com/features/2015-stock-chart-trading-game/).
 
