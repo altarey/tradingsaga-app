@@ -13,9 +13,9 @@ Welcome to **TradingSaga**, your mobile platform for real-time trading insights 
 The app has been developed over multiple phases by two dedicated teams:
 
 - **2020**: Initial version (v1) by a team in India.
-- **2021**: Enhanced version (v2) developed by teams in Ukraine, the UK, and Pakistan.
+- **2021**: Enhanced version (v2) developed by Ukraine, the UK, and Pakistan teams.
 
-Front-end React Architecture was implemented by [Philipp Munin](https://www.linkedin.com/in/pmunin).  
+Front-end React Architecture was implemented by [Philipp Munin](https://www.linkedin.com/in/pmunin).
 Project and Development Delivery were managed by [Gleb Karapish](https://www.linkedin.com/in/karapish).
 
 ## Concepts
@@ -47,8 +47,8 @@ TradingSaga is designed to cater to traders of all levels, from beginners to sea
 
 We welcome contributions from the community! If you're interested in contributing to TradingSaga, please follow these steps:
 
-1. Send an email to fantasymesa@gmail.com to notify us if you're using this repository for commercial or non-commercial purposes.
-2. The MIT license applies with this condition.
+1. Email fantasymesa@gmail.com to notify us if you use this repository for commercial or non-commercial purposes.
+2. The MIT license applies to this condition.
 
 ## License
 
