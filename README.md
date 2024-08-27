@@ -1,22 +1,24 @@
 # TradingSaga Cross-platform Mobile App
 
-![image](https://github.com/user-attachments/assets/bf206a63-da9d-49f3-bf7d-e3d7b348a527)
+![TradingSaga Logo](https://github.com/user-attachments/assets/bf206a63-da9d-49f3-bf7d-e3d7b348a527)
 
 More details are available at [tradingsaga.com](https://tradingsaga.com).
 
-Welcome to **TradingSaga**, your mobile platform for real-time trading insights and market analysis in a non-demanding gamified environment. Our mission is to empower traders by providing cutting-edge tools, resources, and information to make informed trading decisions. The plot was inspired by the [Bloomberg Trading Game](https://www.bloomberg.com/features/2015-stock-chart-trading-game/).
+Welcome to **TradingSaga**, your mobile platform for real-time trading insights and market analysis in a user-friendly, gamified environment. Our mission is to empower traders by providing cutting-edge tools, resources, and information to make informed trading decisions. The concept was inspired by the [Bloomberg Trading Game](https://www.bloomberg.com/features/2015-stock-chart-trading-game/).
 
 ## History
 
-The app has been worked on by two development and UI/UX freelancing teams: 
-- 2020 in India (v1)
-- 2021 in Ukraine, UK and Pakistan (v2)
-Front-end React Architecture done by [Philipp Munin](https://www.linkedin.com/in/pmunin) 
-Project and Development Delivery managed by [Gleb Karapish](https://www.linkedin.com/in/karapish)
+The app has been developed over multiple phases by two dedicated teams:
+
+- **2020**: Initial version (v1) by a team in India.
+- **2021**: Enhanced version (v2) developed by teams in Ukraine, the UK, and Pakistan.
+
+Front-end React Architecture was implemented by [Philipp Munin](https://www.linkedin.com/in/pmunin).  
+Project and Development Delivery were managed by [Gleb Karapish](https://www.linkedin.com/in/karapish).
 
 ## Concepts
 
-TradingSaga is designed to cater to traders of all levels, from beginners to experienced professionals. The platform offers a comprehensive suite of features, including:
+TradingSaga is designed to cater to traders of all levels, from beginners to seasoned professionals. The platform offers a comprehensive suite of features, including:
 
 - **Real-Time Market Data**: Access live data on stocks, forex, commodities, and more.
 - **Advanced Charting Tools**: Utilize powerful charting tools to analyze market trends.
@@ -24,9 +26,9 @@ TradingSaga is designed to cater to traders of all levels, from beginners to exp
 ## Key Features
 
 ![In-app gameplay](https://github.com/user-attachments/assets/3981bc07-92f7-4cca-acff-9eee9ac6b8cc)
-![image](https://github.com/user-attachments/assets/79bb396a-d373-4b4d-965c-9d06442ddcc7)
-![image](https://github.com/user-attachments/assets/87133e6a-71fb-4d79-acab-40de82062512)
-![image](https://github.com/user-attachments/assets/c76e69ac-4712-4862-aaf0-4050b2f063e5)
+![Feature Image 1](https://github.com/user-attachments/assets/79bb396a-d373-4b4d-965c-9d06442ddcc7)
+![Feature Image 2](https://github.com/user-attachments/assets/87133e6a-71fb-4d79-acab-40de82062512)
+![Feature Image 3](https://github.com/user-attachments/assets/c76e69ac-4712-4862-aaf0-4050b2f063e5)
 
 - **Live Trading Simulator**: Practice your trading strategies in a risk-free environment.
 - **Market News**: Stay updated with the latest news and analysis from the financial world.
@@ -34,17 +36,17 @@ TradingSaga is designed to cater to traders of all levels, from beginners to exp
 
 ## Getting Started
 
-1. **Visit the Website**: Head over to [TradingSaga](https://tradingsaga.com/) and sign up for an account.
-2. **Explore the Features**: Take a tour of the platform to discover all the tools and resources available.
-3. **Start Trading**: Begin your trading journey with confidence using TradingSaga's state-of-the-art tools.
-
+1. **Visit the Website**: Head over to [TradingSaga](https://tradingsaga.com/)
+2. **Watch on YouTube**: [Gameplay Review](https://youtube.com/playlist?list=UULFuLvAkBxTrPS4TTvmCLRkxw&feature=shared)
+3. **Explore the Features**: Take a tour of the platform to discover all the tools and resources available.
+4. **Start Trading**: Begin your trading journey with confidence using TradingSaga's state-of-the-art tools.
 
 ## Contributing
 
 We welcome contributions from the community! If you're interested in contributing to TradingSaga, please follow these steps:
 
-1. Send email to fantasymesa@gmail.com to let know you're using this repositroy in commercial and for non-commercial use
-2. MIT license comes wiht that condition
+1. Send an email to fantasymesa@gmail.com to notify us if you're using this repository for commercial or non-commercial purposes.
+2. The MIT license applies with this condition.
 
 ## License
 
@@ -53,7 +55,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Happy Trading! 🚀
-
 
 ## 🛠️ Setup Local Dev Environment
 
