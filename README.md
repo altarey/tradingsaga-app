@@ -1,4 +1,6 @@
-# TradingSaga Cross-platform Mobile App
+# TradingSaga 
+Stock, ETF, and Crypto market simulator designed for junior millennial traders. Influcenced by Robinhood and Bloomberg Trading Game.
+Internally, the cross-platform mobile app is written on ReactNative (this repository). 
 
 ![TradingSaga Logo](https://github.com/user-attachments/assets/bf206a63-da9d-49f3-bf7d-e3d7b348a527)
 
